@@ -7,7 +7,7 @@ android {
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.myapp"
+        applicationId = "com.example.autoflashlight"
         minSdk = 21
         targetSdk = 33
         versionCode = 1
